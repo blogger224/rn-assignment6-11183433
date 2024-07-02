@@ -46,6 +46,7 @@ Remove products from their cart.
 View the items in their cart.
 
 Home Screen
+
 ![Screenshot1](/assets/blogger.png)
 
 Checkout Sceen
