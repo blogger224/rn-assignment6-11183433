@@ -22,7 +22,9 @@ Live Demo
 
 Clone the repository:
 
-git clone https://github.com/richy-andoh/rn-assignment6-11254304.git
+git clone https://github.com/blogger224/rn-assignment6-11183433.git
+
+cd rn-assignment6-11183433
 
 cd rn-assignment6-11254304
 Install the dependencies:
@@ -31,8 +33,6 @@ npm install
 Start the Expo server:
 
 npm start
-
-## Prerequisites
 
 ## Usage
 
