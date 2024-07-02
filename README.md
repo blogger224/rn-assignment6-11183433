@@ -1,7 +1,8 @@
 React Native E-commerce UI App
 This project is an assignment for the DCIT202 Mobile Application Development course. The goal is to create a mobile application that allows users to view a list of products, add products to their cart, remove products from their cart, and view the items in their cart. The application uses local storage to save selected items on the device.
 
-Table of Contents
+## Table of Contents
+
 Features
 
 Components
@@ -16,17 +17,17 @@ Functionality
 
 Live Demo
 
-Screenshots
+## Screenshots
 
-Installation
+## Installation
 
-Prerequisites
+## Prerequisites
 
-Usage
+## Usage
 
-Contributing
+## Contributing
 
-License
+## License
 
 Features
 Display products in a grid layout on the Home screen.
